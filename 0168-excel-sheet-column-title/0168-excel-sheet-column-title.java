@@ -1,3 +1,5 @@
+// Time Complex: O(logn)
+
 class Solution {
     public String convertToTitle(int columnNumber) {
         StringBuilder answerWord = new StringBuilder();
